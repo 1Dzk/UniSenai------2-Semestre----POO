@@ -1,4 +1,4 @@
-package org.example.atividadeRevisao;
+package org.example.atividadeRevisao.contabancaria;
 
 public class ContaBancariaMain {
     public static void main(String[]args){

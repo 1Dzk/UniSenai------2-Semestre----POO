@@ -1,4 +1,4 @@
-package org.example.atividadeRevisao.contabancaria;
+package org.example.atividadeRevisao.Estoque;
 
 public class Produto {
 

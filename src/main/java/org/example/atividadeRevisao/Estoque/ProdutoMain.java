@@ -1,6 +1,4 @@
-package org.example.atividadeRevisao.contabancaria;
-
-import java.util.ArrayList;
+package org.example.atividadeRevisao.Estoque;
 
 public class ProdutoMain {
     public static void main(String[] args) {
@@ -10,6 +8,7 @@ public class ProdutoMain {
 
         p1.setPreco(3.20);
         p1.setQuantidade(200);
+
         p1.calcularValorTotal();
         p2.calcularValorTotal();
         p3.calcularValorTotal();
